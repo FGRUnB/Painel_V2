@@ -1,4 +1,7 @@
 site_name: Painel V2
+# repo_url: 
+repo_name: Painel V2
+site_name: Painel
 
 nav:
   - Home: index.md
@@ -20,24 +23,29 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: pt
-
+  language: pt-BR
+  favicon: ../../site/assets/images/logo_20px.png
+  logo: ../../site/assets/images/logo_200px.png
   palette:
     - scheme: default
       toggle:
         icon: material/globe-light
         name: Dark mode
-      primary: green
-      accent: green
+      primary: grey
+      accent: grey
     - scheme: slate
       toggle:
         icon: material/globe-light-outline
         name: Light mode
-      primary: green
-      accent: green
+      primary: grey
+      accent: grey
 
 markdown_extensions:
   - attr_list
 
 extra_css:
   - css/custom.css
+
+extra: 
+  assets:
+    - assets/images/

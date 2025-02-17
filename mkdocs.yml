@@ -5,8 +5,8 @@ site_name: Painel
 
 nav:
   - Home: index.md
-  - Metodologia: visao-painel/metodologia.md
-  - Requisitos: visao-painel/requisitos.md
+  - Atas de reunião: 
+    - Ata reunião 1: atas-reuniao/ata-reuniao1.md
   
 theme:
   name: material
@@ -42,9 +42,6 @@ theme:
 
 markdown_extensions:
   - attr_list
-
-extra_css:
-  - css/custom.css
 
 extra: 
   assets:

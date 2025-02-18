@@ -7,6 +7,9 @@ nav:
   - Home: index.md
   - Atas de reunião: 
     - Ata reunião 1: atas-reuniao/ata-reuniao1.md
+  - Metodologia: visao-painel/metodologia.md
+  - Planejamento: visao-painel/planejamento.md
+  - Requisitos: visao-painel/requisitos.md
   
 theme:
   name: material
@@ -24,8 +27,8 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: pt-BR
-  favicon: ../../site/assets/images/logo_20px.png
-  logo: ../../site/assets/images/logo_200px.png
+  favicon: ../assets/logo_20px.png
+  logo: ../assets/images/Logo FGR branca verdelimao.png
   palette:
     - scheme: default
       toggle:
@@ -44,5 +47,11 @@ markdown_extensions:
   - attr_list
 
 extra: 
+extra_css:
+  - css/custom.css
+
+docs_dir: docs
+
+extra:
   assets:
-    - assets/images/
+    - site/assets/images/

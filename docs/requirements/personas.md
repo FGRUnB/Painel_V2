@@ -23,19 +23,19 @@ Para estabelecer as características das personas, adotei os critérios proposto
 
 ### Persona 1
 
-<font size="2"><p style="text-align: center">Tabela 2: Persona primária Gabriel Anacleto Saraiva.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: Persona primária Diego.</p></font>
 
 <center class="personas">
 
-|   **Identidade**    | <figure markdown><figcaption>Figura 1: Diego Caio.</figcaption> ![Diego](../assets/images/Diego.jpeg){.img-reduzida}<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Estudante |
-| :-----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     **Status**      | Persona primária                                                                                                                                                                                                                                                                                                                                        |
-|    **Objetivos**    |                                                                                                                                                                                                                                                                                                                                                         |
-|   **Habilidades**   |                                                                                                                                                                                                                                                                                                                                                         |
-|     **Tarefas**     |                                                                                                                                                                                                                                                                                                                                                         |
-| **Relacionamentos** |                                                                                                                                                                                                                                                                                                                                                         |
-|   **Requisitos**    |                                                                                                                                                                                                                                                                                                                                                         |
-|  **Expectativas**   |                                                                                                                                                                                                                                                                                                                                                         |
+|   **Identidade**    | <figure markdown><figcaption>Figura 1: Diego Caio.</figcaption> ![Diego](../assets/images/Diego.jpeg){.img-reduzida}<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure>Diego<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Estudante |
+| :-----------------: | ------------ |
+|     **Status**      | Persona primária. |
+|    **Objetivos**    | Diego é estudante de engenharia eletrônica na Unb, tem como objetivo analisar os dados fornecidos pelo sistema. |
+|   **Habilidades**   | Engenheiro eletrônico. |
+|     **Tarefas**     | Analisar os dados durante os testes do carro e pós conseguir fazer uma análise. |
+| **Relacionamentos** | Amigos da faculdade, amigos de fora e família. |
+|   **Requisitos**    | Requisitos listados [aqui](#requisitos) |
+|  **Expectativas**   | Que o sistema funcione tantyo em tempo real quanto tenha a capacidade de armazenar dados para análise pós testes. |
 
 </center>
 
@@ -47,31 +47,57 @@ Para estabelecer as características das personas, adotei os critérios proposto
 
 <center class="personas">
 
-|   **Identidade**    | <figure markdown><figcaption>Figura 1: Diego Caio.</figcaption> ![Filipe Medeiros](../assets/images/Filipe.jpeg){.img-reduzida}<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Gabriel Anacleto Saraiva<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Estudante |
-| :-----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     **Status**      | Persona primária                                                                                                                                                                                                                                                                                                                                                   |
-|    **Objetivos**    |                                                                                                                                                                                                                                                                                                                                                                    |
-|   **Habilidades**   |                                                                                                                                                                                                                                                                                                                                                                    |
-|     **Tarefas**     |                                                                                                                                                                                                                                                                                                                                                                    |
-| **Relacionamentos** |                                                                                                                                                                                                                                                                                                                                                                    |
-|   **Requisitos**    |                                                                                                                                                                                                                                                                                                                                                                    |
-|  **Expectativas**   |                                                                                                                                                                                                                                                                                                                                                                    |
+|   **Identidade**    | <figure markdown><figcaption>Figura 1: Filipe Mesdeiros.</figcaption> ![Filipe Medeiros](../assets/images/Filipe.jpeg){.img-reduzida}<figcaption>Fonte: [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), 2024.</figcaption></figure> Filipe Medeiros<br> 20 anos<br> Masculino<br> Solteiro<br> Ensino Superior Incompleto<br> Estudante |
+| :-----------------: | ----------------------- |
+|     **Status**      | Persona primária. |
+|    **Objetivos**    | Filipe Medeiros é estudante de Engenharia Automotiva na UnB, o objetivo dele é pilotar o veículo. |
+|   **Habilidades**   | Piloto de corrida de veículos automotores e Engenhario Automotivo em formação. |
+|     **Tarefas**     | Conduzir o veículo com precisão, utilizando-se das informações apresentadas no painel para o máximo de eficiência possível. |
+| **Relacionamentos** | Colegas de equipe, amigos da faculdade, amigos do condomínio e a própria família. |
+|   **Requisitos**    | Requisitos listados [aqui](#requisitos) |
+|  **Expectativas**   | Principalmente que o painel mostre as informações em tempo real para que ele possa conduzir o veículo com confiança e segurança. |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
 
-## Backlog
+## Requisitos
 
-| US0X | História de usuário | Área Responsável |
-| ---- | ------------------- | ---------------- |
+#### Requisitos funcionais
 
-Legenda:<br>
-BDD - Banco de dados<br>
-FEL - Frontend local<br>
-BEL - Backend local<br>
-FEW - Frontend web<br>
-BEW - Backend web<br>
+| REQFXX           | Descrição do requisito |
+| ---------------- | ---------------------- |
+| REQF01           | O sistema deve ter um  sistema web que fornece informações do carro em tempo real. |
+| REQF02           | O sistema deve ter um banco de dados na nuvem para fornecer informações sobre os testes de pilotagem realizados. |
+| REQF03           | O conjunto do sistema deve conseguir ter rede de internet para enviar os dados para o sistema na nuvem. |
+| REQF04           | O sistema web deve poder gerar gráficos para melhor análise dos dados. |
+| REQF05           | O sistema web deve conter um sistema de login para impedir possíveis problemas. |
+| REQF06           | O sistema web deve conter um sistema de adição e remoção de contas de usuários para limitar a quantidade de acessos ao sistema. |
+| REQF07           | O sistema local deve ser capaz de fornecer informações em tempo real no painel para o piloto do veículo. |
+| REQF08           | O sistema local deve ser capaz de receber, via rede CAN, os dados dos subsistemas do veículo. |
+| REQF09           | O sistema local deve enviar os dados do REQF08 via protocolo HTTP para o sistema web. |
+| REQF10           | O sistema web deve ter um administrador para poder autorizar entrada e exclusão de pessoas no sistema. |
+| REQF11           | O sistema deve ter dois tipos de usuário, o comum e o administrador. |
+| REQF12           | O sistema local deve iniciar automaticamente ao iniciar a Rasp. |
+| REQF13           | A senha do administrador deve ser uma senha forte gerada uma vez e enviada para o email do adminstrador. | 
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
+
+### Requisitos não funcionais
+
+| REQNFXX             | Descrição do requisito |
+| ------------------- | ---------------------- |
+| REQNF01             | O delay para verificação em tempo real do sistema web deve ter uma tolerância de até 2 segundos. |
+| REQNF02             | O delay para verificação em tempo real do painel do carro é de 1 segundo. |
+| REQNF03             | O login tenha uma senha criptografada. | 
+| REQNF04             | A senha deve conter, no mínimo, 8 dígitos, 1 letra maiúscula, 1 letra minúscula, 1 número e um caractere especial. |
+| REQNF05             | O administrador do sistema web não pode ser removido, apenas alterado sob exigência de senha e confirmação de senha. |
+| REQNF06             | O sistema deve ser capaz de suportar até 10 usuários simultâneos sem degradação de desempenho. |
+| REQNF07             | Os dados transmitidos entre o sistema local e o sistema na nuvem devem ser criptografados usando HTTPS. |
+| REQNF08             | O sistema deve ter uma cobertura de testes de 80% antes de seu MVP. |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
+
 
 ## Versioning
 

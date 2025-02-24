@@ -19,4 +19,4 @@
 
 | Version | Date     | Description of Change | Contributor(s) |
 | ------- | -------- | --------------------- | -------------- |
-| 0.1     | 14/02/25 | Documentation started | João Lobo      |
+| 1.0     | 14/02/25 | Documentation started | João Lobo      |

@@ -61,7 +61,7 @@ Para estabelecer as características das personas, adotei os critérios proposto
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
 
-## Requisitos
+## Requisitos elicitados
 
 #### Requisitos funcionais
 

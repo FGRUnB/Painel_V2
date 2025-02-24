@@ -35,7 +35,7 @@ Para estabelecer as características das personas, adotei os critérios proposto
 |     **Tarefas**     | Analisar os dados durante os testes do carro e pós conseguir fazer uma análise. |
 | **Relacionamentos** | Amigos da faculdade, amigos de fora e família. |
 |   **Requisitos**    | Requisitos listados [aqui](#requisitos) |
-|  **Expectativas**   | Que o sistema funcione tantyo em tempo real quanto tenha a capacidade de armazenar dados para análise pós testes. |
+|  **Expectativas**   | Que o sistema funcione tanto em tempo real quanto tenha a capacidade de armazenar dados para análise pós testes. |
 
 </center>
 

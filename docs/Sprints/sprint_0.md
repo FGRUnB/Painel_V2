@@ -26,9 +26,11 @@ Como se tratou de uma sprint de documentação não temos histórias de usuário
 
 ## Considerações
 
-## Versioning
+Nessa sprint a documentação ficou quase completa com o Miro atualizado, mas ficarama faltando histórias de usuários melhor planejadas, o Figma das novas telas que seriam a da web, mas tudo dentro do planejamento da organização da equipe.
+
+## Versionamento
  
 
 | Version | Date     | Description of Change  | Member(s)                                  |
 | ------- | -------- | ---------------------- | ------------------------------------------ |
-| 1.0     | 14/02/25 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |
+| 1.0     | 26/02/25 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |

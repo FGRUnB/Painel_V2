@@ -7,7 +7,12 @@
 | HU02   | **Como** analista, **Eu quero** que a página do sistema web que tenha o painel do carro seja atualizada próximo do tempo real, **Para que** eu possa ver como o carro está respondendo durante a pilotagem. | BEW |
 | HU03   | **Como** analista, **Eu quero** que as informações do carro fiquem salvas em um banco de dados, **Para que** possa analizar o histórico do carro e de seu funcionamento. | BDD |
 | HU04   | **Como** analista, **Eu quero** que o sistema local possa enviar dados do carro para o sistema web, **Para que** eu consiga ter acesso livre aos dados semprecisar estar conectado ao dispositivo local | BEW e BEL |
-| HU05   | **Como** analista, **Eu quero** , **Para que**  |  | #REQF04
+| HU05   | **Como** analista, **Eu quero** poder ver as informações de uma pilotagem, **Para que** fique mais claro as informações | BEW e FEW |
+| HU06   | **Como** analista, **Eu quero** que o gráfico gerado depois seja descartado, **Para que** não fique muita informação sem nexo para análise | BEW |
+| HU07   | **Como** analista, **Eu quero** que os gráficos descartados estejam salvos em um banco de dados, **Para que** eu tenha um histórico das pilotagens | BDD |
+| HU08   | **Como** analista, **Eu quero** que o sistema web tenha um login, **Para que** não seja qualquer um que possa ter acesso a essas informações | BEW |
+| HU09   | **Como** analista, **Eu quero** que a senha do login seja criptografada, **Para que** dificulte a invasão de terceiros no sistema | BEW |
+| HU10   | **Como** piloto, **Eu quero** que no painel do carro, **Para que**  |  | #REQF07
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>

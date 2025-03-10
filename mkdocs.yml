@@ -19,7 +19,7 @@ nav:
     - User Stories: product-management/user-stories.md
     - RoadMap: product-management/roadmap.md
   - Requirements: 
-    - Personas: requirements/personas.md
+    - Elicitação: requirements/elicitacao.md
     - Backlog: requirements/backlog.md
   
 theme:

@@ -2,7 +2,6 @@
 
 | **ID** | **História de Usuário** |
 | ------ | ----------------------- | 
-| HUXX   | **Como** , **Eu quero** , **Para que**  |
 | HU01   | **Como** analista, **Eu quero** que o sistema web tenha uma aba onde eu possa ver o painel do carro, **Para que** eu possa ver como ele está se comportando. | 
 | HU02   | **Como** analista, **Eu quero** que a página do sistema web que tenha o painel do carro seja atualizada próximo do tempo real, **Para que** eu possa ver como o carro está respondendo durante a pilotagem. |
 | HU03   | **Como** analista, **Eu quero** que as informações do carro fiquem salvas em um banco de dados, **Para que** possa analizar o histórico do carro e de seu funcionamento. | 

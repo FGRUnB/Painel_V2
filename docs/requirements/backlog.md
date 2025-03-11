@@ -26,7 +26,11 @@
 | HU21   | **Como** administrador, **Eu quero** que todas as senhas sejam geradas e enviadas pelo email cadastrado, **Para que** fique mais difícil de descobrir a senha dos usuários. |
 | HU22   | **Como** adminsitrador, **Eu quero** que os analistas possam trocar de senha, **Para que** se sintam mais confortáveis a usar o sistema. |
 | HU23   | **Como** administrador , **Eu quero** que me mande por email ou dentro da plataforma do sistema liberando o usuário que deseje ter acesso ao sistema, **Para que** eu possa gerenciar entrada e saída de quem deseja entrar no sistema. |
-| HU24   | **Como** , **Eu quero** , **Para que**  |
+| HU24   | **Como** administrador, **Eu quero** que as senhas de usuário criada pelos analistas cubram os requisitos de segurança, **Para que** as senhas fiquem mais difíceis de serem descobertas. |
+| HU25   | **Como** administrador, **Eu quero** que eu seja impossibilitado de ser removido, somente atualizando meu login mediante troca de admin, **Para que** não haja confusão em relação a liderança da área. |
+| HU26   | **Como** administrador, **Eu quero** que o sistema aguente até 10 usuários simultâneos, **Para que** todos os analistas possam utilizar e fazer análises simultâneamente. |
+| HU27   | **Como** adminsitrador, **Eu quero** que os dados transmitidos sejam criptografados em HTTP, **Para que** os dados não sejam corrompidos ou "roubados em meio as transmissões. |
+| HU28   | **Como** administrador, **Eu quero** que o sistema tenha 80% de cobertura de teste, **Para que** falhas sejam mais difíceis de ocorrer. |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
 

@@ -6,12 +6,12 @@ Por causa do atraso em algumas tarefas definimos que essa semana será para term
 
 ## Responsáveis
 
-| Responsáveis | Tarefa | Área da tarefa |
-| ------------ | ------ | -------------- |
-| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Organizar as histórias de usuário | Documentação | 
-| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Cronograma | Documentação | 
-| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Atualizar o Figma da equipe | Documentação/Front |
-| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Subir ambientes | Develop |
+| Responsáveis                                                                                                                                     | Tarefa                            | Área da tarefa     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------ |
+| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Organizar as histórias de usuário | Documentação       |
+| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Cronograma                        | Documentação       |
+| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Atualizar o Figma da equipe       | Documentação/Front |
+| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117) e [Renan Camara](https://github.com/Renurin) | Subir ambientes                   | Develop            |
 
 ## Histórias de usuário
 
@@ -21,13 +21,12 @@ Por causa do atraso em algumas tarefas definimos que essa semana será para term
 
 | Data de início | Data de fim |
 | -------------- | ----------- |
-| 24/02/2025 | 03/03/2025 |
+| 24/02/2025     | 03/03/2025  |
 
 ## Considerações
 
 ## Versionamento
- 
 
-| Version | Date     | Description of Change  | Member(s)                                  |
-| ------- | -------- | ---------------------- | ------------------------------------------ |
-| 1.0     | 14/02/25 | Início da documentação | [Gabriel Basto](https://github.com/Bertola) |
+| Versão | Data     | Descrição da mudança   | Criado por                                  |
+| ------ | -------- | ---------------------- | ------------------------------------------- |
+| 1.0    | 14/02/25 | Início da documentação | [Gabriel Basto](https://github.com/Bertola) |

@@ -22,8 +22,8 @@
 | [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin)              | ------------ |
 | [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117) | ------------ |
 
-## Versioning
+## Versionamento
 
-| Version | Date     | Description of Change  | Member(s)                                  |
-| ------- | -------- | ---------------------- | ------------------------------------------ |
-| 1.0     | 14/02/25 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |
+| Versão | Data     | Descrição da mudança   | Criado por                                 |
+| ------ | -------- | ---------------------- | ------------------------------------------ |
+| 1.0    | 14/02/25 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |

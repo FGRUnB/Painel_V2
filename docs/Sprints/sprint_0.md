@@ -6,13 +6,13 @@ Na sprint 1 focamos no primeiro momento na organização do front com a parte de
 
 ## Responsáveis
 
-| Responsáveis | Tarefa | Área da tarefa |
-| ------------ | ------ | -------------- |
-| [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117) | Atualizar a documentação com os requisitos | Documentação |
-| [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117) | Atualizar a documentação com o cornograma | Documentação |
-| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117), [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin) | Atualizar o Miro da equipe | Documentação | 
-| [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin) | Estilizar o gitpages da equipe | Documentação |
-| [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin) | Atualizar o Figma da equipe | Documentação/Front |
+| Responsáveis                                                                                                                                                                                 | Tarefa                                     | Área da tarefa     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------ |
+| [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117)                                                                                         | Atualizar a documentação com os requisitos | Documentação       |
+| [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117)                                                                                         | Atualizar a documentação com o cornograma  | Documentação       |
+| [Gabriel Basto](https://github.com/Bertolazi), [Rafael Barbosa](https://github.com/rafaelbdmelo117), [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin) | Atualizar o Miro da equipe                 | Documentação       |
+| [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin)                                                                                                      | Estilizar o gitpages da equipe             | Documentação       |
+| [João Lobo](https://github.com/joaolobo10) e [Renan Camara](https://github.com/Renurin)                                                                                                      | Atualizar o Figma da equipe                | Documentação/Front |
 
 ## Histórias de usuário
 
@@ -22,15 +22,14 @@ Como se tratou de uma sprint de documentação não temos histórias de usuário
 
 | Data de início | Data de fim |
 | -------------- | ----------- |
-| 17/02/2025 | 24/02/2025 |
+| 17/02/2025     | 24/02/2025  |
 
 ## Considerações
 
 Nessa sprint a documentação ficou quase completa com o Miro atualizado, mas ficarama faltando histórias de usuários melhor planejadas, o Figma das novas telas que seriam a da web, mas tudo dentro do planejamento da organização da equipe.
 
 ## Versionamento
- 
 
-| Version | Date     | Description of Change  | Member(s)                                  |
-| ------- | -------- | ---------------------- | ------------------------------------------ |
-| 1.0     | 26/02/25 | Início da documentação | [João Lobo](https://github.com/joaolobo10) |
+| Versão | Data     | Descrição da mudança   | Criado por                                  |
+| ------ | -------- | ---------------------- | ------------------------------------------- |
+| 1.0    | 14/02/25 | Início da documentação | [Gabriel Basto](https://github.com/Bertola) |

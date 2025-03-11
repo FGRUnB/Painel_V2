@@ -5,22 +5,21 @@ site_name: Painel
 
 nav:
   - Home: index.md
-  - Meetings:
-    - Model Meeting: meeting-minutes/model-meeting.md 
-    - Meeting minutes 001: meeting-minutes/meeting1.md
-    - Meeting minutes 002: meeting-minutes/meeting2.md
-    - Meeting minutes 003: meeting-minutes/meeting3.md
-    - Meeting minutes 004: meeting-minutes/meeting4.md
-    - Meeting minutes 005: meeting-minutes/meeting5.md
+  - Atas de reunião:
+    - Reunião 1: atas-reuniao/reuniao1.md
+    - Reunião 2: atas-reuniao/reuniao2.md
+    - Reunião 3: atas-reuniao/reuniao3.md
+    - Reunião 4: atas-reuniao/reuniao4.md
+    - Reunião 5: atas-reuniao/reuniao5.md
   - Sprints: 
     - Sprint 0: Sprints/sprint_0.md
     - Sprint 0.2: Sprints/sprint_02.md
-  - Product Management: 
-    - User Stories: product-management/user-stories.md
-    - RoadMap: product-management/roadmap.md
-  - Requirements: 
-    - Elicitação: requirements/elicitacao.md
-    - Backlog: requirements/backlog.md
+  - Visão do produto: 
+    - Histórias de usuário: visao-produto/historias-usuario.md
+    - RoadMap: visao-produto/roadmap.md
+  - Requisitos: 
+    - Elicitação: requisitos/elicitacao.md
+    - Backlog: requisitos/backlog.md
   
 theme:
   name: material

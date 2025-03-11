@@ -2,7 +2,7 @@
 
 | **ID** | **História de Usuário** |
 | ------ | ----------------------- | 
-| HUXX   | **Como** , **Eu quero** , **Para que**  |  | # Exemplo depois tira isso aqui
+| HUXX   | **Como** , **Eu quero** , **Para que**  |
 | HU01   | **Como** analista, **Eu quero** que o sistema web tenha uma aba onde eu possa ver o painel do carro, **Para que** eu possa ver como ele está se comportando. | 
 | HU02   | **Como** analista, **Eu quero** que a página do sistema web que tenha o painel do carro seja atualizada próximo do tempo real, **Para que** eu possa ver como o carro está respondendo durante a pilotagem. |
 | HU03   | **Como** analista, **Eu quero** que as informações do carro fiquem salvas em um banco de dados, **Para que** possa analizar o histórico do carro e de seu funcionamento. | 
@@ -20,9 +20,13 @@
 | HU15   | **Como** adminstrador, **Eu quero** dois tipos de usuário: administrador e anslista no sistema, **Para que** possamos analizar os dados e manter o controle e a gearência sobre o grupo. |
 | HU16   | **Como** piloto, **Eu quero** que ao ligar o carro já abra no painel do carro, **Para que** não precisemos conectar o computador para iniciar o painel. |
 | HU17   | **Como** administrador, **Eu quero** que minha senha seja gerada e enviada para o meu email, **Para que** fique mais difícil de ser acessada por terceiros. |
-
-
-
+| HU18   | **Como** analista, **Eu quero** que o delay do sistema web em comparação com o sistema local seja de até dois segundos, **Para que** a análise em tempo real do desempenho do carro a distância não seja prejudicado. |
+| HU19   | **Como** piloto, **Eu quero** que o delay do sistema local (painel) seja de até um segundo em relação ao recebimento dos dados do subsistema, **Para que** a análise em pilotagem não seja prejudicada. |
+| HU20   | **Como** administrador, **Eu quero** que o login de qualquer usuário tenha um senha criptografada dentro do sistema, **Para que** a invasão fique mais complexa, mesmo após troca de senhas. |
+| HU21   | **Como** administrador, **Eu quero** que todas as senhas sejam geradas e enviadas pelo email cadastrado, **Para que** fique mais difícil de descobrir a senha dos usuários. |
+| HU22   | **Como** adminsitrador, **Eu quero** que os analistas possam trocar de senha, **Para que** se sintam mais confortáveis a usar o sistema. |
+| HU23   | **Como** administrador , **Eu quero** que me mande por email ou dentro da plataforma do sistema liberando o usuário que deseje ter acesso ao sistema, **Para que** eu possa gerenciar entrada e saída de quem deseja entrar no sistema. |
+| HU24   | **Como** , **Eu quero** , **Para que**  |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Basto](https://github.com/Bertolazi) e [Rafael Barbosa](https://github.com/rafaelbdmelo117), 2024.</p></font>
 

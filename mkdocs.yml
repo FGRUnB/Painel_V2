@@ -14,12 +14,11 @@ nav:
   - Sprints: 
     - Sprint 0: Sprints/sprint_0.md
     - Sprint 0.2: Sprints/sprint_02.md
-  - Visão do produto: 
-    - Histórias de usuário: visao-produto/historias-usuario.md
-    - RoadMap: visao-produto/roadmap.md
   - Requisitos: 
     - Elicitação: requisitos/elicitacao.md
     - Backlog: requisitos/backlog.md
+  - Visão do produto: 
+    - RoadMap: visao-produto/roadmap.md
   
 theme:
   name: material
